@@ -1,1 +1,2 @@
-# odin-recipes
+# Odin Recipes
+A simple project proposed by the The Odin Project curriculum, designed to show the basic of HTML. In this project it was used lists, links, images as well as simple HTML tags like paragraphs and headings.
