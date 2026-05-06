@@ -1,0 +1,96 @@
+* {
+    background-color: rgb(255, 229, 180);
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1,
+h2,
+ul,
+ol,
+li,
+p,
+.options {
+    background-color: white;
+}
+
+h1,
+h2,
+ul,
+ol,
+li,
+p {
+    padding: 8px 16px;
+}
+
+h1,
+h2,
+ul,
+ol,
+p {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px rgb(250, 121, 0) solid;
+    border-radius: 5%;
+}
+
+h1,
+h2 {
+    width: fit-content;
+    text-align: center;
+    font-style: italic;
+}
+
+ul,
+ol {
+    width: 50%;
+}
+
+li {
+    padding: 16px;
+    text-align: justify;
+}
+
+.options {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 45, 8);
+    list-style-type: none;
+}
+
+p {
+    width: 50%;
+    text-align: justify;
+}
+
+.ingredients,
+.options-list {
+    width: 30%;
+    list-style-position: inside;
+}
+
+.options,
+.ingredients li {
+    text-align: center;
+}
+
+ol {
+    list-style-position: inside;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.home {
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: rgb(71, 97, 204);
+    padding: 8px 16px;
+    color: white;
+    border: 2px solid rgb(7, 0, 99);
+}
